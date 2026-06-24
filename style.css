@@ -1,0 +1,44 @@
+body {
+    font-family:arial, sans-serif;
+    background-color: #eeeeee;
+    display: flex;
+    justify-content: center;
+    align-items: center;border-radius: 20px;
+
+}
+
+h1 {
+    font-size: 40px;
+    color: blue;
+}
+
+h2 {
+    color: green;
+}
+
+p {
+    font-size: 18px;
+}
+
+button {
+
+    background-color: black;
+    color: white;
+
+    padding: 12px 25px;
+
+    border: name;
+
+    border-radius: 10px;
+{
+
+.foto {
+
+    width: 120px;
+    height: 120px;
+
+    border-radius: 50%;
+
+    object-fit: cover;
+    
+}
