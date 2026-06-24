@@ -1,8 +1,3 @@
 JavaScript
 
-function pesan(){
-
-    alert("Halo! Terima kasih telah mengunjungi
-        website saya");
-
- }
+alert("TES JAVASCRIPT MASUK DONG");
